@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3b8ec4f.css",
+    "main.js": "/static/js/main.fc381f21.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/the-mountain.png": "/static/media/the-mountain.60cc4eace431a7cdcf1d.png",
+    "static/media/the-mountain-3.png": "/static/media/the-mountain-3.ed40fb5e7dd3d124433c.png",
+    "static/media/the-mountain-2.png": "/static/media/the-mountain-2.3a6473ceff0ae2bc56ae.png",
+    "static/media/esport.png": "/static/media/esport.e5116b43949035e4537c.png",
+    "static/media/profil-picture.jpg": "/static/media/profil-picture.c6adf5ad265cca9bb902.jpg",
+    "static/media/lecteur-audio-3.png": "/static/media/lecteur-audio-3.5dfecc9628c6e9294414.png",
+    "static/media/contact-background.jpg": "/static/media/contact-background.20b850196377554e0d34.jpg",
+    "static/media/one-million.png": "/static/media/one-million.8558e4d0c31c16c92828.png",
+    "static/media/lecteur-audio-2.png": "/static/media/lecteur-audio-2.7505fe1a785ef5dd93a7.png",
+    "static/media/OURIR_Yanis_CV.pdf": "/static/media/OURIR_Yanis_CV.02df3565e2e25ac29789.pdf",
+    "static/media/lecteur-audio.png": "/static/media/lecteur-audio.6d44882a43fd407e0695.png",
+    "static/media/esport-3.png": "/static/media/esport-3.1feb3da99264949af64a.png",
+    "static/media/esport-2.png": "/static/media/esport-2.7d4ea93b03240092851c.png",
+    "static/media/one-million-2.png": "/static/media/one-million-2.249f947f6ef7daaf666f.png",
+    "static/media/header-background.jpg": "/static/media/header-background.27c9e8d2f35057314e58.jpg",
+    "static/media/one-million-3.png": "/static/media/one-million-3.abfcab2aa38c94280533.png",
+    "static/media/mini-chat-2.png": "/static/media/mini-chat-2.aece2856e3b7f481bb37.png",
+    "static/media/mini-chat.png": "/static/media/mini-chat.f437d76a48d1499b3344.png",
+    "static/media/mini-chat-3.png": "/static/media/mini-chat-3.ead567ff1428769a0ffe.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e3b8ec4f.css.map": "/static/css/main.e3b8ec4f.css.map",
+    "main.fc381f21.js.map": "/static/js/main.fc381f21.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b8ec4f.css",
+    "static/js/main.fc381f21.js"
+  ]
+}
